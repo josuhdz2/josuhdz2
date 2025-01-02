@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌐 Desarrollador Web Fullstack  
+👨‍💻 **3 años de experiencia creando soluciones web y de escritorio**  
+✨ Especializado en **JavaScript** para desarrollo backend, frontend y aplicaciones de escritorio.  
 
-<!--
-**josuhdz2/josuhdz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Tecnologías principales:**  
+- Backend: **Express.js**  
+- Frontend: **Vue.js**  
+- Bases de datos: **MongoDB**  
+- Aplicaciones de escritorio: **Electron.js**  
 
-Here are some ideas to get you started:
+💡 **Habilidades clave:**  
+- Creación de APIs REST eficientes y seguras.  
+- Desarrollo de interfaces interactivas y responsive.  
+- Integración con bases de datos escalables.  
+- Aplicaciones multiplataforma robustas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **En constante aprendizaje:**  
+- Busco mejorar mis habilidades y explorar nuevas tecnologías para construir proyectos innovadores.  
+
+📫 **Conéctate conmigo:**  
+- Siempre abierto a colaboraciones interesantes y desafiantes.  
