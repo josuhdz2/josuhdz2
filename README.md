@@ -2,7 +2,7 @@
 👨‍💻 **3 años de experiencia creando soluciones web**  
 ✨ Especializado en **JavaScript** para desarrollo backend y frontend.  
 
-```
+```json
 {
   "Tecnologías":{
     "Backend":["NestJS", "ExpressJS"],
