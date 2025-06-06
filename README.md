@@ -4,13 +4,13 @@
 
 ```
 {
-	"Tecnologías":{
-		"Backend":["NestJS", "ExpressJS"],
-		"Fronend":["VueJS", "Angular"],
-		"Databases":["MongoDB", "MySQL"],
-		"Mobile":["Flutter"],
-		"DevOps":["Docker", "Kubernetes", "GitHub Actions"],
-		"Cloud":["GCP"]
+  "Tecnologías":{
+    "Backend":["NestJS", "ExpressJS"],
+    "Fronend":["VueJS", "Angular"],
+    "Databases":["MongoDB", "MySQL"],
+    "Mobile":["Flutter"],
+    "DevOps":["Docker", "Kubernetes", "GitHub Actions"],
+    "Cloud":["GCP"]
   },
   "Habilidades clave":[
     "Creación de APIs REST eficientes y seguras.",
