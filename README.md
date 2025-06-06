@@ -25,4 +25,4 @@
 - Busco mejorar mis habilidades y explorar nuevas tecnologías para construir proyectos innovadores.  
 
 📫 **Conéctate conmigo:**  
-- Siempre abierto a colaboraciones interesantes y desafiantes.  
+- Siempre abierto a colaboraciones interesantes y desafiantes.
